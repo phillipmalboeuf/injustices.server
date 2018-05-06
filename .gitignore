@@ -1,0 +1,6 @@
+/node_modules
+/.sass-cache
+/.cache
+/dist
+npm-debug.log
+secret.json
